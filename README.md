@@ -3,7 +3,6 @@ Based on https://github.com/gocolly/colly
 
 
 Continue with the following command.
-# go mod colly
 # go get go.uber.org/automaxprocs
 # go get github.com/gocolly/colly
 
